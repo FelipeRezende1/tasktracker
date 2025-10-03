@@ -1,0 +1,4 @@
+No primeiro dia pensei em fazer direto em lista, tentando encontrar algum jeito para colocar caixinhas com variáveis dentro dessa lista. Logo depois eu achei os dicionários, que aparentemente dá para usar também.
+No final das contas eu achei as class/object, não entendo muito como funciona mais aparetemente é um bom jeito de fazer, fica mais organizado. Na descrição do desafio menciona o JSON, eu entendi(possivelmente de forma errônea) que ele armazena
+tudo como uma lista, mas precisa ser importado quando for usar, levando do json para o python e vice versa. é algo bem complexo para quem não entende nada, como eu.
+Segundo dia:
